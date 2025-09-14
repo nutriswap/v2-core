@@ -1,2 +1,14 @@
+# Ignore dependencies
 node_modules/
+
+# Ignore build artifacts
 build/
+
+# Ignore cache & temp files
+cache/
+crytic-export/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
